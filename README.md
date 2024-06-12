@@ -13,6 +13,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 ollama run llama 3
 ```
 
+### Note: 
+If you run into issues with step 1 or step2, check the [ollama](https://github.com/ollama/ollama) github link to debug!
+
 This step ensures that your laptop actually installed  ollama.
 
 ### step3. Install the front end in your machine with one docker command. 
@@ -23,4 +26,8 @@ docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=
 ### Step 4. Open the webui for the user interface. 
 The default URL is http://localhost:8080/
 
-Congrats, now you have your local LLM installed in your local machine and start to chat with it!
+### Note:
+if you run into issues of using webui, check the offical github [here](https://github.com/open-webui/open-webui)
+
+
+This is just an example of how you can download the LLM locally, there are many more ways to do it. Congrats! now you have your local LLM installed in your local machine and start to chat with it!
