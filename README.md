@@ -23,4 +23,4 @@ docker run -d --network=host -v open-webui:/app/backend/data -e OLLAMA_BASE_URL=
 ### Step 4. Open the webui for the user interface. 
 The default URL is http://localhost:8080/
 
-Congrats, now you have your local LLM installed in your local machine and start to chat with him!
+Congrats, now you have your local LLM installed in your local machine and start to chat with it!
