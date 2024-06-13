@@ -14,7 +14,7 @@ ollama run llama3
 ```
 
 Now, you can chat with a LLM in your terminal!! 
-!('chat_panel 1.png'?raw=true "Title")
+![Chat Terminal Interface](ollama_demo.png)
 
 
 ### Note: 
@@ -43,16 +43,16 @@ if you run into issues of using webui, check the offical github [here](https://g
 Right now, you have both frontend and backend installed in your local machine. To Select models. Following the following steps to download any models you like.
 
 This is the interface you will be facing:
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Chat Interface](main.png)
 
 Click on Admin Panel on the upper right corner.
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Admin Panel](image.png)
 
 Go to Settings and find the Models tag to download and select the models.
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Model Selection](admin_panel.png)
 
 Once you download the model, you can go back to chat panel and start a conversation!!!
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+![Chat Interface](chat_panel.png)
 
 This is the [model libraries](https://ollama.com/library) you can pull from and chat!
 
