@@ -14,7 +14,7 @@ ollama run llama3
 ```
 
 Now, you can chat with a LLM in your terminal!! 
-![Alt text](relative%20path/to/img.jpg?raw=true "Title")
+!('chat_panel 1.png'?raw=true "Title")
 
 
 ### Note: 
@@ -23,7 +23,7 @@ if you want to try other models, simply run `ollama run <model_name>`.
 
 
 
-## Now, you may wonder is there any user friendly interface we can have to have a better conversation experience? Yes! So, step3 and step4 will allow you to run front end, and with 2 command lines, you can have a chat window with your local LLM!
+Now, you may wonder is there any user friendly interface we can have to have a better conversation experience? Yes! So, step3 and step4 will allow you to run front end, and with 2 command lines, you can have a chat window with your local LLM!
 
 ### step3. Install the front end in your machine with one docker command (running first-time will take time, be patient). 
 ```bash
